@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/sergio Manrique/Desktop/Unity/PROJECTS/BasicEndlessRuner2D/Assets/Scenes/EndlessRunner.unity
+  isLoaded: 1
+  isActive: 1
